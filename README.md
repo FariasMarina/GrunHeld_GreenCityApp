@@ -1,2 +1,2 @@
-# GrunHeld_GreenCityApp
+# GrünHeld_GreenCityApp
 An application to make Heilbronn greener
